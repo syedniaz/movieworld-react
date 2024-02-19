@@ -1,7 +1,7 @@
 # Movie World - React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-A responsive movie database website built using React.
+A responsive movie database website built using React and using OMDi API
 
 ![Screenshot (000)](./ss0.png)
 
